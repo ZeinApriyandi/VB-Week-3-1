@@ -1,0 +1,10 @@
+C:\Users\User\Documents\Visual Studio 2012\Projects\Apriyandi1-week3\DateTimePicker\DateTimePicker\bin\Debug\DateTimePicker.exe.config
+C:\Users\User\Documents\Visual Studio 2012\Projects\Apriyandi1-week3\DateTimePicker\DateTimePicker\bin\Debug\DateTimePicker.exe
+C:\Users\User\Documents\Visual Studio 2012\Projects\Apriyandi1-week3\DateTimePicker\DateTimePicker\bin\Debug\DateTimePicker.pdb
+C:\Users\User\Documents\Visual Studio 2012\Projects\Apriyandi1-week3\DateTimePicker\DateTimePicker\bin\Debug\DateTimePicker.xml
+C:\Users\User\Documents\Visual Studio 2012\Projects\Apriyandi1-week3\DateTimePicker\DateTimePicker\obj\Debug\DateTimePicker.frm_dateTimePicker.resources
+C:\Users\User\Documents\Visual Studio 2012\Projects\Apriyandi1-week3\DateTimePicker\DateTimePicker\obj\Debug\DateTimePicker.Resources.resources
+C:\Users\User\Documents\Visual Studio 2012\Projects\Apriyandi1-week3\DateTimePicker\DateTimePicker\obj\Debug\DateTimePicker.vbproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2012\Projects\Apriyandi1-week3\DateTimePicker\DateTimePicker\obj\Debug\DateTimePicker.exe
+C:\Users\User\Documents\Visual Studio 2012\Projects\Apriyandi1-week3\DateTimePicker\DateTimePicker\obj\Debug\DateTimePicker.xml
+C:\Users\User\Documents\Visual Studio 2012\Projects\Apriyandi1-week3\DateTimePicker\DateTimePicker\obj\Debug\DateTimePicker.pdb
